@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/song-cloud/static/css/main.099a9414.css",
+    "main.js": "/song-cloud/static/js/main.d2fa7f51.js",
+    "static/media/controller.png": "/song-cloud/static/media/controller.851391f982a56402bf53.png",
+    "static/media/pic2.jpeg": "/song-cloud/static/media/pic2.0f14712c3077ea48b093.jpeg",
+    "index.html": "/song-cloud/index.html",
+    "main.099a9414.css.map": "/song-cloud/static/css/main.099a9414.css.map",
+    "main.d2fa7f51.js.map": "/song-cloud/static/js/main.d2fa7f51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.099a9414.css",
+    "static/js/main.d2fa7f51.js"
+  ]
+}
