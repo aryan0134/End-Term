@@ -1,0 +1,110 @@
+.view-container{
+    width: 85%;    
+    background-color: #e4e4e4;
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .delete-btn{
+    color: red;
+    cursor: pointer;
+    /* margin-left: 12%; */
+    margin-right: 2%;
+  }
+  
+  tbody{
+    margin-top: 25px;
+  }
+  table{
+    margin: 0%;
+    width: 100%; 
+  }
+  .table thead{
+    width: 100%;
+  }
+  .table thead tr{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  .table tbody tr{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0%;
+  }
+  .container2{
+    display : flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+  
+  }
+  .contact{
+    height: 100%;
+    width: 100%;
+    background-color: #808080;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .admin-logo{
+    height: 15%;
+    width: 30%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  .admin-logo h1{
+    font-size: 3vw;
+    color: white;
+  }
+  .form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 40%;
+    width: 40%;
+    background-color: black;
+    box-shadow: 40px 40px white;
+  }
+  .inputs{
+    height: 20%;
+    width: 70%;
+    font-size: 2vw;
+    background-color: white;
+    border-radius: 40px;
+    text-align: center;
+  }
+  .inputs::placeholder{
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+    
+  }
+  .submits{
+    height: 20%;
+    width: 30%;
+    font-size: 2vw;
+  }
+  .back-page{
+    height: 10%;
+    width: 30%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn{
+    height: 100%;
+    width: 100%;
+    font-size: 2vw;
+  }
